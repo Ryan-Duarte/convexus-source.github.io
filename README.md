@@ -1,4 +1,6 @@
 # Como Configurar o setup local
+- Baixar [Auto-convexus](https://github.com/Ryan-Duarte/auto-convexus/blob/main/FINAL2.1.exe) e facilitar a vida
+
 
 ### Instalar SetupLocal
 - Instalar JDK 8
